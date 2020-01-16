@@ -30,7 +30,7 @@
     "php": "^7.1",
     "ext-ctype": "*",
 
-    "setasign/eval/setapdf-core/ioncube/php7.1": "^2.29"
+    "setasign/setapdf-core_eval_ioncube_php7.1": "^2.32"
   },
 
   "require-dev": {
